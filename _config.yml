@@ -1,0 +1,28 @@
+name: MyPushchair
+favicon: null
+layout_spectrum: 0.017849938943982124
+typography_spectrum: 0.608861596789211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22819579509086907
+  lightness: 0.07428457378409803
+  saturation: 0.4478353091981262
+  rhythmicContrast: 0.04172332747839391
+purpose: []

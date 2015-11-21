@@ -2,6 +2,7 @@ name: MyPushchair
 favicon: null
 layout_spectrum: 0.017849938943982124
 typography_spectrum: 0.608861596789211
+title: 'Pushchair reviews, advice, best prices'
 cta:
   domain: null
   bucket: null

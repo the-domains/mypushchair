@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T10:36:58.281Z'
-dateModified: '2016-01-24T10:36:54.674Z'
-title: Joolz Day Earth Pushchair with Carrycot
+datePublished: '2016-01-24T10:38:19.124Z'
+dateModified: '2016-01-24T10:38:16.266Z'
+title: Joolz Day Earth Pushchair with Carrycot Reviews
 author: []
 sourcePath: _posts/2016-01-24-joolz-day-earth-pushchair-with-carrycot.md
 published: true
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# Joolz Day Earth Pushchair with Carrycot
+# Joolz Day Earth Pushchair with Carrycot Reviews
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a96c191620b02b00d773505ec77f56fcb53c6980.jpg)
 
 > The high seat position puts less strain on your back.

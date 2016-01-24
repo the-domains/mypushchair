@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T10:03:23.344Z'
-dateModified: '2016-01-24T10:03:08.820Z'
+datePublished: '2016-01-24T10:51:40.975Z'
+dateModified: '2016-01-24T10:51:38.187Z'
 title: UPPAbaby Vista Pushchair and Carrycot
 author: []
+sourcePath: _posts/2016-01-24-uppababy-vista-pushchair-and-carrycot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-uppababy-vista-pushchair-and-carrycot.md
-published: true
 url: uppababy-vista-pushchair-and-carrycot/index.html
 _type: Article
 

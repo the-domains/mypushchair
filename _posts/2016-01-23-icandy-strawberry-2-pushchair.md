@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T23:41:15.467Z'
-dateModified: '2016-01-23T23:41:09.292Z'
+datePublished: '2016-01-24T00:03:34.665Z'
+dateModified: '2016-01-24T00:03:30.519Z'
 title: iCandy Strawberry 2 Pushchair
 author: []
 sourcePath: _posts/2016-01-23-icandy-strawberry-2-pushchair.md

@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T00:11:05.060Z'
-dateModified: '2016-01-24T00:11:00.663Z'
+datePublished: '2016-01-24T10:36:58.227Z'
+dateModified: '2016-01-24T10:36:54.674Z'
 title: Joolz Day Earth Pushchair with Carrycot
 author: []
 sourcePath: _posts/2016-01-24-joolz-day-earth-pushchair-with-carrycot.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: joolz-day-earth-pushchair-with-carrycot/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Joolz Day Earth Pushchair with Carrycot
